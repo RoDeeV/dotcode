@@ -9,6 +9,6 @@ We see that many languages already released have syntax that are far from Englis
 
 when executed
   createVariable(baz)whichWillBeSetTo("foo bar") 
-  log("foo bar")
+  log(baz)
 end, exit number is set to 0
 ```
